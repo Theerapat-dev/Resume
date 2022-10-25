@@ -1,0 +1,20 @@
+body {
+  background-color: skyblue;
+}
+hr{
+
+  border-style: dotted none none;
+  border-color: : dotted;
+  border-width: 5px;
+  height: 0px;
+  width: 30%;
+}
+
+img {
+height: 250px;
+width: 250px;
+}
+
+h1, h3 {
+  color: #42855B ;
+}
